@@ -1,2 +1,2 @@
 # Coursework
-List of courses completed
+Selected subset of courses I have taken at McGill University.
